@@ -1,0 +1,8 @@
+HỆ THỐNG QUẢN LÝ BÁN HÀNG TRỰC TUYẾN
+BÁNH TRUNG THU KINH ĐÔ
+Tài khoản (Đã được phân quyền)
+- TK: admin MK: 123
+- TK: quanly MK: 123
+- TK: banhang MK: 123
+- TK: ketoan MK: 123
+- TK: kho MK: 123
